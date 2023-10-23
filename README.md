@@ -1,6 +1,6 @@
 # EstimativaTrajetoriaICP-LiDAR-KITTI
 
-#LiDAR Point Cloud
+LiDAR Point Cloud
 
 Este repositório contém uma implementação personalizada do algoritmo "Iterative Closest-Points (ICP)" para estimar a trajetória de um veículo com base em nuvens de pontos (point clouds) obtidas de varreduras LiDAR do KITTI DATASET.
 
@@ -28,3 +28,4 @@ O objetivo principal deste projeto é desenvolver uma implementação do algorit
 
 Este projeto é uma oportunidade de aprender e aprimorar as habilidades de processamento de dados LiDAR e algoritmos de registro de nuvens de pontos, além de promover a compreensão da estimativa da trajetória de veículos a partir de dados sensoriais.
 
+[Link para o KITTI DATASET](https://www.cvlibs.net/datasets/kitti/eval_odometry.php)
